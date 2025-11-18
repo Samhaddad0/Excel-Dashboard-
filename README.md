@@ -50,6 +50,16 @@ To answer this, the analysis focuses on:
 | Storytelling         | Insight-driven recommendations           |
 | Future Work          | Predictive modeling in Python / Power BI |
 
+📌 Future Enhancements
+
+🔹 Build a predictive model to classify potential buyers
+🔹 Deploy a Streamlit / Power BI dashboard
+🔹 Cluster customers with K-Means segmentation
+🔹 Create an automated lead scoring system for sales teams
+
+
+
+
 
   
 
