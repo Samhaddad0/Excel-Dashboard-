@@ -16,7 +16,6 @@ To answer this, the analysis focuses on:
   3-Regional sales comparison
   4-Identifying purchase drivers using data analysis
 
-
 | Insight                                                                      | Business Implication                              |
 | ---------------------------------------------------------------------------- | ------------------------------------------------- |
 | Customers aged **35–55** show the highest bike purchase rate                 | Target this group with fitness & health campaigns |
@@ -29,15 +28,16 @@ To answer this, the analysis focuses on:
 📈 Dashboard Preview:
 <img width="888" height="607" alt="Screenshot 2025-11-18 at 4 53 10 PM" src="https://github.com/user-attachments/assets/6c36371b-cc96-4c4d-b5eb-ffa546ce84fd" />
 
-Age vs Purchase Analysis
+1-Age vs Purchase Analysis
 
-Bike Purchase by Income Bracket
+2-Bike Purchase by Income Bracket
 
-Commute Distance Patterns
+3-Commute Distance Patterns
 
-Regional Performance
+4-Regional Performance
 
-Segmented Buyer Profiles
+5-Segmented Buyer Profiles
+
 
 🛠 Tools & Skills Demonstrated:
 
