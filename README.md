@@ -28,6 +28,7 @@ To answer this, the analysis focuses on:
 
 📈 Dashboard Preview:
 <img width="888" height="607" alt="Screenshot 2025-11-18 at 4 53 10 PM" src="https://github.com/user-attachments/assets/6c36371b-cc96-4c4d-b5eb-ffa546ce84fd" />
+
 Age vs Purchase Analysis
 
 Bike Purchase by Income Bracket
