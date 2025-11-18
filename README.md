@@ -27,7 +27,7 @@ To answer this, the analysis focuses on:
 
 
 📈 Dashboard Preview:
-![Bike Sales Dashboard](bike-sales-analysis/dashboard_preview.png)
+<img width="888" height="607" alt="Screenshot 2025-11-18 at 4 53 10 PM" src="https://github.com/user-attachments/assets/6c36371b-cc96-4c4d-b5eb-ffa546ce84fd" />
 Age vs Purchase Analysis
 
 Bike Purchase by Income Bracket
@@ -37,6 +37,18 @@ Commute Distance Patterns
 Regional Performance
 
 Segmented Buyer Profiles
+
+🛠 Tools & Skills Demonstrated:
+
+| Category             | Tools / Techniques                       |
+| -------------------- | ---------------------------------------- |
+| Data Cleaning        | Excel formulas, filtering, formatting    |
+| Exploratory Analysis | Pivot Tables, descriptive statistics     |
+| Visualization        | Excel Dashboard design & interactivity   |
+| Business Analysis    | Segmentation, hypothesis testing         |
+| Storytelling         | Insight-driven recommendations           |
+| Future Work          | Predictive modeling in Python / Power BI |
+
 
   
 
